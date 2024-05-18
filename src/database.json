@@ -1,0 +1,79 @@
+{
+  "sticker": {},
+  "database": {},
+  "game": {
+    "math": []
+  },
+  "others": {
+    "vote": []
+  },
+  "users": {
+    "94742274855@s.whatsapp.net": {
+      "serialNumber": "5748ef2731f9b0ab993964d915670166",
+      "title": "Premium",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Hui",
+      "premium": "true",
+      "limit": 1000,
+      "totalLimit": 0
+    }
+  },
+  "chats": {
+    "120363047626537933@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antilinkgc": false
+    }
+  },
+  "settings": {
+    "94742274855@s.whatsapp.net": {
+      "totalhit": 4,
+      "totalError": 0,
+      "online": false,
+      "autosticker": false,
+      "autodownload": false,
+      "autobio": false,
+      "autoread": false,
+      "autoblocknum": false,
+      "onlyindia": false,
+      "onlyindo": false,
+      "onlygrub": false,
+      "onlypc": false,
+      "autorecordtype": false,
+      "autorecord": false,
+      "autotype": false,
+      "watermark": {
+        "packname": "Sticker By",
+        "author": "©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠ Xeon\n\n+94742274855"
+      },
+      "about": {
+        "bot": {
+          "nick": "Hui",
+          "alias": "Cheems Bot MD V12"
+        },
+        "owner": {
+          "Manul": "+94742274855",
+          "Official": "94775258999"
+        }
+      }
+    }
+  },
+  "message": {}
+}
