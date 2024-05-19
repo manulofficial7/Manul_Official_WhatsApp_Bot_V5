@@ -111,7 +111,7 @@ SUPPORT GROUP:="https://chat.whatsapp.com/KvfEeYSeT5s2C6eI8eeD0w"
 ____________________
 
 
-- Star ⭐ the repo if you like 📍Manul-Official-WhatsApp-Bot-V2💖.
+- Star ⭐ the repo if you like 📍Manul-Official-WhatsApp-Bot-V4💖.
 
 
 ## `Main Creator` 
