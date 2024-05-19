@@ -36,7 +36,7 @@ global.typemenu = 'v10' // menu type 'v1' => 'v10'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
-global.welcome = false //welcome/left in groups
+global.welcome = true //welcome/left in groups
 global.anticall = false //bot blocks user when called
 global.autoswview = false //auto status/story view
 global.adminevent = false //show promote/demote message
