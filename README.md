@@ -91,8 +91,7 @@ ____________________
 | Hidden NSFW Commands             | Access a range of NSFW commands hidden in the bot       | ✅           | 4.0        |
 | Logo Commands                    | Generate logos using specialized commands               | ✅           | 4.0        |
 | Anime Commands                   | Explore anime-related commands and features              | ✅           | 4.0        |
-| Economy Menu                     | Engage in economic activities within the bot            | ✅           | 2
-4.0        |
+| Economy Menu                     | Engage in economic activities within the bot            | ✅           | 4.0        |
 | Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 4.0        |
 | Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 4.0        |
 
