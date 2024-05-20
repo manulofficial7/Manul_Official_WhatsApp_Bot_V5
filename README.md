@@ -35,7 +35,6 @@ Manul Official Bot Multi Device is a automated whatsapp bot created by <a href="
 <a href='https://replit.com/@manulofficial7/Manul-Official-Whatsapp-Bot-Pair-Code#main.sh' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Click here to get your credit js-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 -----
-____________________
 
  ## 👇💖 Heroku Tutorial Video 💖👇
 
@@ -45,6 +44,17 @@ ____________________
 
 
 -----
+
+#### DEPLOY TO HEROKU 
+
+1. If You don't have a account in Heroku. Create a account.
+    <br>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+------
+
+
+
 
 ## ```Connect With Me```
 <p align="center">
