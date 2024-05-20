@@ -36,6 +36,12 @@ Manul Official Bot Multi Device is a automated whatsapp bot created by <a href="
 
 -------
 
+ 
+ <p align="left">
+<a href="https://youtu.be/2OJcIWwYTi4"><img align="center" src="https://telegra.ph/file/2717975a4410096a24c0f.jpg" alt="DEPLOY" height="110" width="200" /></a>
+
+-----
+
 ## ```Connect With Me```
 <p align="center">
 <a href="https://youtube.com/@manulofficial"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@manulofficial" /><br>
