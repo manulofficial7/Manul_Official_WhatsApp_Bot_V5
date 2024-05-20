@@ -1,2 +1,1 @@
-Manul Official New Whatsapp Multidevice Bot...
-Release soon 🔮✨.
+
