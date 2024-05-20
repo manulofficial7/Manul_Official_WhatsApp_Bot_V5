@@ -31,6 +31,11 @@ Manul Official Bot Multi Device is a automated whatsapp bot created by <a href="
 
 -------
 
+### GET SESSION VIA PAIR CODE
+<a href='https://replit.com/@manulofficial7/Manul-Official-Whatsapp-Bot-Pair-Code#main.sh' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Click here to get your credit js-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+
+-------
+
 ## ```Connect With Me```
 <p align="center">
 <a href="https://youtube.com/@manulofficial"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@manulofficial" /><br>
