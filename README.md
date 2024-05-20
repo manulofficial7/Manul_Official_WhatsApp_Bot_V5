@@ -49,7 +49,9 @@ Manul Official Bot Multi Device is a automated whatsapp bot created by <a href="
 <a href="manulwijethilaka@gmail.com"><img title="Author" src="https://img.shields.io/badge/GMAIL-ME-black?style=for-the-badge&logo=Gmail"></a>
  <p align="left"> 
   <a href="https://wa.me/94742274855?text=Hi+Manul+Official+Sir...+I+need+some+help+in+Manul_Official_WhatsApp_Bot"><img title="Author" src="https://img.shields.io/badge/WHATSAPP-ME-red?style=for-the-badge&logo=WhatsApp"></a>
------
+
+  
+  -----
   
    ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
