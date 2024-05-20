@@ -31,6 +31,17 @@ Manul Official Bot Multi Device is a automated whatsapp bot created by <a href="
 
 -------
 
+## ```Connect With Me```
+<p align="center">
+<a href="https://youtube.com/@manulofficial"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@manulofficial" /><br>
+<a href="https://whatsapp.com/channel/0029VaN1XMn2ZjCsu9eZQP3R"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaN1XMn2ZjCsu9eZQP3R" /><br>
+<a href="https://t.me/manulofficial"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://chat.whatsapp.com/EIjQV4nxXwJ6S6QHSa9jpN"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://www.instagram.com/unicorn_?igsh=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
+</p>
+
+------
+
    ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
 | ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
