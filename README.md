@@ -66,7 +66,19 @@ yarn install
 npm start
 ```
 -----
-
+## `For VPS`
+```bash
+apt install nodejs 
+apt install git 
+apt apt install ffmpeg 
+apt apt install libwebp 
+apt apt install imagrmagick
+apt install bash
+git clone https://github.com/manulofficial7/Manul_Official_WhatsApp_Bot_V4
+cd Manul_Official_WhatsApp_Bot_V4
+npm start
+```
+-----
 ## ```Connect With Me```
 <p align="center">
 <a href="https://youtube.com/@manulofficial"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@manulofficial" /><br>
