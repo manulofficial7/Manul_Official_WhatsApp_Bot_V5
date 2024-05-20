@@ -67,3 +67,15 @@ Manul Official Bot Multi Device is a automated whatsapp bot created by <a href="
 | Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 2.0        |
 
 
+------
+
+
+## `Main Creator` 
+<a href="https://github.com/manulofficial7"><img src="https://graph.org/file/ad59b4019b737105516fe.jpg" width="250" height="250" alt="manulofficial7"/></a>
+  
+`MANUL-OFFICIAL-BOT - By ©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️`
+
+
+      ``⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ.´´
+
+
