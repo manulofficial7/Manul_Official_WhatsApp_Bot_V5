@@ -1,0 +1,223 @@
+{
+  "sticker": {},
+  "database": {},
+  "game": {
+    "math": []
+  },
+  "others": {
+    "vote": []
+  },
+  "users": {
+    "94742274855@s.whatsapp.net": {
+      "serialNumber": "5748ef2731f9b0ab993964d915670166",
+      "title": "Premium",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Hui",
+      "premium": "true",
+      "limit": 1000,
+      "totalLimit": 0
+    },
+    "13022410866@s.whatsapp.net": {
+      "serialNumber": "51b5bea707a330943f3f5622ddccf7b8",
+      "title": "Premium",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+91 69091 37213",
+      "premium": "true",
+      "limit": 1000,
+      "totalLimit": 0
+    },
+    "94775258999@s.whatsapp.net": {
+      "serialNumber": "42d9404996157ee8f33424778fed1808",
+      "title": "Premium",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+91 94021 04403",
+      "premium": "true",
+      "limit": 1000,
+      "totalLimit": 0
+    }
+  },
+  "chats": {
+    "120363200175936047@g.us": {
+      "badword": true,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": true,
+      "antipromotion": false,
+      "antilinkgc": true
+    },
+    "916909137213@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antilinkgc": false
+    },
+    "6289529333847@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antilinkgc": false
+    },
+    "919402104403@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antilinkgc": false
+    }
+  },
+  "settings": {
+    "919366316018@s.whatsapp.net": {
+      "totalhit": 250,
+      "totalError": 0,
+      "online": false,
+      "autosticker": false,
+      "autodownload": false,
+      "autobio": false,
+      "autoread": false,
+      "autoblocknum": false,
+      "onlyindia": false,
+      "onlyindo": false,
+      "onlygrub": false,
+      "onlypc": false,
+      "autorecordtype": false,
+      "autorecord": false,
+      "autotype": false,
+      "watermark": {
+        "packname": "Sticker By",
+        "author": "Manul Official\n\n+94742274855"
+      },
+      "about": {
+        "bot": {
+          "nick": "Hui",
+          "alias": "Manul Official WhatsApp Bot V4"
+        },
+        "owner": {
+          "manul": "+94 74 227 4855",
+          "king": "94742274855"
+        }
+      }
+    },
+    "916909137213@s.whatsapp.net": {
+      "totalhit": 3,
+      "totalError": 0,
+      "online": false,
+      "autosticker": false,
+      "autodownload": false,
+      "autobio": false,
+      "autoread": false,
+      "autoblocknum": false,
+      "onlyindia": false,
+      "onlyindo": false,
+      "onlygrub": false,
+      "onlypc": false,
+      "autorecordtype": false,
+      "autorecord": false,
+      "autotype": false,
+      "watermark": {
+        "packname": "Sticker By",
+        "author": "Manul Official\n\n+94742274855"
+      },
+      "about": {
+        "bot": {
+          "nick": "Hui",
+          "alias": "Manul Official WhatsApp Bot V4"
+        },
+        "owner": {
+          "manul": "+94 74 227 4855",
+          "king": "94742274855"
+        }
+      }
+    },
+    "919402104403@s.whatsapp.net": {
+      "totalhit": 11,
+      "totalError": 0,
+      "online": false,
+      "autosticker": false,
+      "autodownload": false,
+      "autobio": false,
+      "autoread": false,
+      "autoblocknum": false,
+      "onlyindia": false,
+      "onlyindo": false,
+      "onlygrub": false,
+      "onlypc": false,
+      "autorecordtype": false,
+      "autorecord": false,
+      "autotype": false,
+      "watermark": {
+        "packname": "Sticker By",
+        "author": "Manul Official\n\n+94742274855"
+      },
+      "about": {
+        "bot": {
+          "nick": "Hui",
+          "alias": "Manul Official WhatsApp Bot V4"
+        },
+        "owner": {
+          "manul": "+94 74 227 4855",
+          "king": "94742274855"
+        }
+      }
+    }
+  },
+  "message": {}
+}
