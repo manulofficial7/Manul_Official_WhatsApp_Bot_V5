@@ -37,11 +37,10 @@ Manul Official Bot Multi Device is a automated whatsapp bot created by <a href="
 -----
 #### Heroku Tutorial Video
 
+'Tap Logo`
+
 <p align="left">
 <a href="https://youtu.be/SOJdOggBirg?si=L2d3KZhSHRCqHKUq"><img align="center" src="https://telegra.ph/file/56ec4a15988ebd4a391e6.jpg" alt="DEPLOY" height="110" width="200" /></a>
-
-
-#Link = "https://youtu.be/2OJcIWwYTi4"
 
 -----
 
