@@ -4677,7 +4677,7 @@ const xeonplaymp3 = require('./lib/ytdl')
 let yts = require("youtube-yts")
         let search = await yts(text)
         let anup3k = search.videos[0]
-        const head = "> *Manul-MD Youtube SONG Downloader*"
+        const head = "Manu YouTube SONG Downloader"
         const pl = await xeonplaymp3.mp3(anup3k.url)
         let msg = generateWAMessageFromContent(from, {
           viewOnceMessage: {
@@ -4702,11 +4702,11 @@ let yts = require("youtube-yts")
                     buttons: [
                       {
                        "name": "quick_reply",
-                       "buttonParamsJson": `{"display_text":"AS A AUDIO","id":"${prefix}ytmp3" + anup3k}`
+                       "buttonParamsJson": `{"display_text":"AUDIO","id":"${prefix}ytmp3" + anup3k}`
                       },
                       {
                         "name": "quick_reply",
-                        "buttonParamsJson": `{"display_text":"AS A DOCMENT","id":"${prefix}ytmp3doc" + anup3k}`
+                        "buttonParamsJson": `{"display_text":"DOCMENT","id":"${prefix}ytmp3doc" + anup3k}`
                       }
                    ],
                   }),
